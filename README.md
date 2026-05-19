@@ -108,6 +108,11 @@ The models were evaluated using:
 Logistic Regression achieved better overall performance and recall than Random Forest on this dataset.
 
 ---
+## Live API
+
+FastAPI Documentation:
+
+https://customer-churn-prediction-fkiz.onrender.com/docs
 
 ## Business Recommendations
 
